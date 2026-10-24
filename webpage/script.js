@@ -228,7 +228,23 @@ async function returnAnimal(number, position) {
 	const stationaryPortrait = portraitScatter.children[number - 1];
 	const home = getHomePosition(number);
 	const outside = exitPositions.get(number);
-	const duration = returnDurations.get(number) || 1000;
+	const sound = new Audio(`../sounds/animal${number}.wav`);
+	sound.preload = "auto";
+	sound.volume = Number(animalVolumeInput.value);
+	activeSound = sound;
+
+	const playbackStarted = await sound.play().then(() => {
+		showStatus();
+		return true;
+	}, () => {
+		showStatus("Animal audio could not play. Check this tab's sound and browser permissions.");
+		return false;
+	});
+	const fallbackDuration = returnDurations.get(number) || 1000;
+	const duration = Number.isFinite(sound.duration) && sound.duration > 0
+		? sound.duration * 1000
+		: fallbackDuration;
+	const soundEnded = playbackStarted ? waitForSoundEnd(sound) : wait(duration / 1000);
 	image.style.transform = `rotate(${home.rotation}deg)`;
 	actor.style.left = `${outside.x}px`;
 	actor.style.top = `${outside.y}px`;
@@ -249,12 +265,20 @@ async function returnAnimal(number, position) {
 		fill: "forwards",
 	});
 	actor.style.visibility = "visible";
-	if (isPaused) activeAnimation.pause();
+	if (isPaused) {
+		sound.pause();
+		activeAnimation.pause();
+	}
 
 	countLabel.textContent = `RETURN ${String(position).padStart(2, "0")} / ${animalCount}`;
-	await activeAnimation.finished.catch(() => { });
+	await Promise.all([
+		activeAnimation.finished.catch(() => { }),
+		soundEnded,
+	]);
+	sound.pause();
 	actor.remove();
 	stationaryPortrait.style.visibility = "";
+	if (activeSound === sound) activeSound = null;
 	activeAnimation = null;
 }
 
