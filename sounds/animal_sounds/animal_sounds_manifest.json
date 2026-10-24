@@ -1,0 +1,290 @@
+[
+  {
+    "animal": "1-pirate-dog",
+    "prompt": "A pirate dog barking, he is a good boy",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/1-pirate-dog/1-pirate-dog_variation_01.wav"
+  },
+  {
+    "animal": "1-pirate-dog",
+    "prompt": "A pirate dog barking, he is a good boy",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/1-pirate-dog/1-pirate-dog_variation_02.wav"
+  },
+  {
+    "animal": "1-pirate-dog",
+    "prompt": "A pirate dog barking, he is a good boy",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/1-pirate-dog/1-pirate-dog_variation_03.wav"
+  },
+  {
+    "animal": "2-polite-fox",
+    "prompt": "a polite looking fox doing its sounds, it seems shy",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/2-polite-fox/2-polite-fox_variation_01.wav"
+  },
+  {
+    "animal": "2-polite-fox",
+    "prompt": "a polite looking fox doing its sounds, it seems shy",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/2-polite-fox/2-polite-fox_variation_02.wav"
+  },
+  {
+    "animal": "2-polite-fox",
+    "prompt": "a polite looking fox doing its sounds, it seems shy",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/2-polite-fox/2-polite-fox_variation_03.wav"
+  },
+  {
+    "animal": "3-reindeer-cat",
+    "prompt": "A reindeer cat with a red nose and cute eyes",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/3-reindeer-cat/3-reindeer-cat_variation_01.wav"
+  },
+  {
+    "animal": "3-reindeer-cat",
+    "prompt": "A reindeer cat with a red nose and cute eyes",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/3-reindeer-cat/3-reindeer-cat_variation_02.wav"
+  },
+  {
+    "animal": "3-reindeer-cat",
+    "prompt": "A reindeer cat with a red nose and cute eyes",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/3-reindeer-cat/3-reindeer-cat_variation_03.wav"
+  },
+  {
+    "animal": "4-ferrari-horse",
+    "prompt": "A Ferrari horse that neighs and does V12 F1 engine sounds",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/4-ferrari-horse/4-ferrari-horse_variation_01.wav"
+  },
+  {
+    "animal": "4-ferrari-horse",
+    "prompt": "A Ferrari horse that neighs and does V12 F1 engine sounds",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/4-ferrari-horse/4-ferrari-horse_variation_02.wav"
+  },
+  {
+    "animal": "4-ferrari-horse",
+    "prompt": "A Ferrari horse that neighs and does V12 F1 engine sounds",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/4-ferrari-horse/4-ferrari-horse_variation_03.wav"
+  },
+  {
+    "animal": "5-duck-goose",
+    "prompt": "a goose duck hybrid going increasingly crazy",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/5-duck-goose/5-duck-goose_variation_01.wav"
+  },
+  {
+    "animal": "5-duck-goose",
+    "prompt": "a goose duck hybrid going increasingly crazy",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/5-duck-goose/5-duck-goose_variation_02.wav"
+  },
+  {
+    "animal": "5-duck-goose",
+    "prompt": "a goose duck hybrid going increasingly crazy",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/5-duck-goose/5-duck-goose_variation_03.wav"
+  },
+  {
+    "animal": "6-fly-bee",
+    "prompt": "It buzzes like a fly and does goopy noises from collecting pollen",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/6-fly-bee/6-fly-bee_variation_01.wav"
+  },
+  {
+    "animal": "6-fly-bee",
+    "prompt": "It buzzes like a fly and does goopy noises from collecting pollen",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/6-fly-bee/6-fly-bee_variation_02.wav"
+  },
+  {
+    "animal": "6-fly-bee",
+    "prompt": "It buzzes like a fly and does goopy noises from collecting pollen",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/6-fly-bee/6-fly-bee_variation_03.wav"
+  },
+  {
+    "animal": "7-dodge-ram-goat",
+    "prompt": "Goat sounds but it's built tough",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/7-dodge-ram-goat/7-dodge-ram-goat_variation_01.wav"
+  },
+  {
+    "animal": "7-dodge-ram-goat",
+    "prompt": "Goat sounds but it's built tough",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/7-dodge-ram-goat/7-dodge-ram-goat_variation_02.wav"
+  },
+  {
+    "animal": "7-dodge-ram-goat",
+    "prompt": "Goat sounds but it's built tough",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/7-dodge-ram-goat/7-dodge-ram-goat_variation_03.wav"
+  },
+  {
+    "animal": "8-ouiia-cat",
+    "prompt": "Its a kitten but it goes ou-i-i-a-i, ou-i-i-i-a, i",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/8-ouiia-cat/8-ouiia-cat_variation_01.wav"
+  },
+  {
+    "animal": "8-ouiia-cat",
+    "prompt": "Its a kitten but it goes ou-i-i-a-i, ou-i-i-i-a, i",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/8-ouiia-cat/8-ouiia-cat_variation_02.wav"
+  },
+  {
+    "animal": "8-ouiia-cat",
+    "prompt": "Its a kitten but it goes ou-i-i-a-i, ou-i-i-i-a, i",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/8-ouiia-cat/8-ouiia-cat_variation_03.wav"
+  },
+  {
+    "animal": "9-red-elephant",
+    "prompt": "does elephant sounds but also like a boiling kettle",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/9-red-elephant/9-red-elephant_variation_01.wav"
+  },
+  {
+    "animal": "9-red-elephant",
+    "prompt": "does elephant sounds but also like a boiling kettle",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/9-red-elephant/9-red-elephant_variation_02.wav"
+  },
+  {
+    "animal": "9-red-elephant",
+    "prompt": "does elephant sounds but also like a boiling kettle",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/9-red-elephant/9-red-elephant_variation_03.wav"
+  },
+  {
+    "animal": "10-wolf-dog",
+    "prompt": "wolf dog hybrid howling",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/10-wolf-dog/10-wolf-dog_variation_01.wav"
+  },
+  {
+    "animal": "10-wolf-dog",
+    "prompt": "wolf dog hybrid howling",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/10-wolf-dog/10-wolf-dog_variation_02.wav"
+  },
+  {
+    "animal": "10-wolf-dog",
+    "prompt": "wolf dog hybrid howling",
+    "duration": 8,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/10-wolf-dog/10-wolf-dog_variation_03.wav"
+  },
+  {
+    "animal": "11-purple bunny horse",
+    "prompt": "a purple bunny horse neighing",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/11-purple bunny horse/11-purple bunny horse_variation_01.wav"
+  },
+  {
+    "animal": "11-purple bunny horse",
+    "prompt": "a purple bunny horse neighing",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/11-purple bunny horse/11-purple bunny horse_variation_02.wav"
+  },
+  {
+    "animal": "11-purple bunny horse",
+    "prompt": "a purple bunny horse neighing",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/11-purple bunny horse/11-purple bunny horse_variation_03.wav"
+  },
+  {
+    "animal": "12-mouth-breather",
+    "prompt": "a fish that breathes loudly out its mouth and sounds like it smokes cigarettes",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/12-mouth-breather/12-mouth-breather_variation_01.wav"
+  },
+  {
+    "animal": "12-mouth-breather",
+    "prompt": "a fish that breathes loudly out its mouth and sounds like it smokes cigarettes",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/12-mouth-breather/12-mouth-breather_variation_02.wav"
+  },
+  {
+    "animal": "12-mouth-breather",
+    "prompt": "a fish that breathes loudly out its mouth and sounds like it smokes cigarettes",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/12-mouth-breather/12-mouth-breather_variation_03.wav"
+  },
+  {
+    "animal": "13-leopard-lion",
+    "prompt": "a leopard lion doing both animal sounds as if its getting angry at something",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/13-leopard-lion/13-leopard-lion_variation_01.wav"
+  },
+  {
+    "animal": "13-leopard-lion",
+    "prompt": "a leopard lion doing both animal sounds as if its getting angry at something",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/13-leopard-lion/13-leopard-lion_variation_02.wav"
+  },
+  {
+    "animal": "13-leopard-lion",
+    "prompt": "a leopard lion doing both animal sounds as if its getting angry at something",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/13-leopard-lion/13-leopard-lion_variation_03.wav"
+  },
+  {
+    "animal": "14-squirrel-raccoon",
+    "prompt": "a squirrel raccoon looking for nuts",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/14-squirrel-raccoon/14-squirrel-raccoon_variation_01.wav"
+  },
+  {
+    "animal": "14-squirrel-raccoon",
+    "prompt": "a squirrel raccoon looking for nuts",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/14-squirrel-raccoon/14-squirrel-raccoon_variation_02.wav"
+  },
+  {
+    "animal": "14-squirrel-raccoon",
+    "prompt": "a squirrel raccoon looking for nuts",
+    "duration": 10,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/14-squirrel-raccoon/14-squirrel-raccoon_variation_03.wav"
+  },
+  {
+    "animal": "15-koala-panda",
+    "prompt": "a koala-panda atop a tree eating bamboo",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/15-koala-panda/15-koala-panda_variation_01.wav"
+  },
+  {
+    "animal": "15-koala-panda",
+    "prompt": "a koala-panda atop a tree eating bamboo",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/15-koala-panda/15-koala-panda_variation_02.wav"
+  },
+  {
+    "animal": "15-koala-panda",
+    "prompt": "a koala-panda atop a tree eating bamboo",
+    "duration": 15,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/15-koala-panda/15-koala-panda_variation_03.wav"
+  },
+  {
+    "animal": "16-starfish-octopus",
+    "prompt": "a starfish octopus hitting the sand underwater",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/16-starfish-octopus/16-starfish-octopus_variation_01.wav"
+  },
+  {
+    "animal": "16-starfish-octopus",
+    "prompt": "a starfish octopus hitting the sand underwater",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/16-starfish-octopus/16-starfish-octopus_variation_02.wav"
+  },
+  {
+    "animal": "16-starfish-octopus",
+    "prompt": "a starfish octopus hitting the sand underwater",
+    "duration": 12,
+    "file": "/content/drive/MyDrive/FictionalAnimals/animal_sounds/16-starfish-octopus/16-starfish-octopus_variation_03.wav"
+  }
+]
